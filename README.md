@@ -23,6 +23,7 @@ After the filesystem process dies the NFS server terminates as well and it also 
 Other details
 ------
 See wiki for more information.
+Download the latest version at https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.0/fuse-t-macos-installer-1.0.0.pkg
 if you have any questions or comments, contact me at alex@fuse-t.org
 
 
