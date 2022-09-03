@@ -1,10 +1,10 @@
 https://github.com/buildbarn/go-xdr/LICENSE
 https://github.com/buildbarn/bb-storage/LICENSE
-https://github.com/KosalaHerath/macos-installer-builder/blob/master/LICENSE
+https://github.com/KosalaHerath/macos-installer-builder/LICENSE
 https://github.com/BurntSushi/toml/COPYING
 https://github.com/projecthunt/reuseable/LICENSE
-github.com/sirupsen/logrus/LICENSE
-github.com/spf13/pflag/LICENSE
+https://github.com/sirupsen/logrus/LICENSE
+https://github.com/spf13/pflag/LICENSE
 https://pkg.go.dev/gopkg.in/natefinch/lumberjack.v2
 
 
