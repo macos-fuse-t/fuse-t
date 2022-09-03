@@ -22,6 +22,7 @@ After the filesystem process dies the NFS server terminates as well and it also 
 
 Other details
 ------
-See wiki for more information
+See wiki for more information.
+if you have any questions or comments you can contact me at alex@fuse-t.org
 
 
