@@ -12,7 +12,7 @@ The main features of FUSE-T
 - Kext-less, no kernel extensions needed
 - NFSv4 protocol to better support macOS features such as extended attributes, file locks and others
 - Stable, easy to mount and unmount volumes with macOS built-in tools, no need for proprietary fusermount
-- Performance, FUSE-T offers much better performance and this is due to excellent client side macOS NFSv4 implementation
+- Performance, FUSE-T offers much better performance and this is due to excellent macOS client side NFSv4 implementation
 
 How FUSE-T works
 -----------------
@@ -23,6 +23,6 @@ After the filesystem process dies the NFS server terminates as well and it also 
 Other details
 ------
 See wiki for more information.
-if you have any questions or comments you can contact me at alex@fuse-t.org
+if you have any questions or comments, contact me at alex@fuse-t.org
 
 
