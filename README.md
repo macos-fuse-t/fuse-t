@@ -1,4 +1,4 @@
-FUSE-T
+Abstract
 ========
 FUSE-T is a kext-less implementation of FUSE for macOS that uses NFS v4 local server instead of a kernel extension.
 The main motivation is to replace 'macfuse' project (https://osxfuse.github.io/) that implements its own kext to make fuse work. 
