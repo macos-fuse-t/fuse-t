@@ -1,6 +1,6 @@
 Abstract
 ========
-FUSE-T is a kext-less implementation of FUSE for macOS that uses NFS v4 local server instead of a kernel extension.
+FUSE-T is a kext-less implementation of FUSE for macOS that uses NFS v4 local server instead of a kernel extension.\
 The main motivation is to replace 'macfuse' project (https://osxfuse.github.io/) that implements its own kext to make fuse work. 
 With each version of macOS it's getting harder and harder to load kernel extensions. Apple strongly discourages it thus making software distributions that use 'macfuse' difficult to install. Additionally, the 'macfuse' kext is unstable, may cause frequent system crashes and kernel lock-ups. Given those limitations many software publishers are unable to use 'macfuse' project anymore.
 
@@ -23,7 +23,12 @@ After the filesystem process dies the NFS server terminates as well and it also 
 Other details
 ------
 See wiki for more information.
-Download the latest version at https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.0/fuse-t-macos-installer-1.0.0.pkg.
+
+Download the latest version of fuse-t:\
+https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.0/fuse-t-macos-installer-1.0.0.pkg \
+sshfs:\
+https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.0/sshfs-macos-installer-1.0.0.pkg
+
 if you have any questions or comments, contact me at alex@fuse-t.org
 
 
