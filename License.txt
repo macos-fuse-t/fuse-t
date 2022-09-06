@@ -10,4 +10,4 @@ The binary distribution of FUSE-T is licensed under the following terms:
 
 
 - License terms for the included LIBFUSE library
-	•	GNU Lesser General Public License (LGPL). It's forked from https://github.com/osxfuse/f
+	•	GNU Lesser General Public License (LGPL). It's forked from https://github.com/osxfuse/fuse
