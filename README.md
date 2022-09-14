@@ -31,4 +31,13 @@ https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.1/sshfs-macos-insta
 
 if you have any questions or comments, contact me at alex@fuse-t.org
 
+Installing from brew
+-----
+Installing from brew
+```
+brew tap macos-fuse-t/homebrew-cask
+brew install fuse-t
+brew install fuse-t-sshfs
+```
+
 
