@@ -25,7 +25,7 @@ Other details
 See wiki for more information.
 
 Download the latest version of fuse-t:\
-https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.6/fuse-t-macos-installer-1.0.6.pkg \
+https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.7/fuse-t-macos-installer-1.0.7.pkg \
 sshfs:\
 https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.1/sshfs-macos-installer-1.0.1.pkg
 
