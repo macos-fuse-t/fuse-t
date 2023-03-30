@@ -25,7 +25,7 @@ Other details
 See wiki for more information.
 
 Download the latest version of fuse-t:\
-https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.18/fuse-t-macos-installer-1.0.18.pkg \
+https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.18/fuse-t-macos-installer-1.0.18.pkg
 
 if you have any questions or comments, contact me at alex@fuse-t.org
 
@@ -34,7 +34,6 @@ Installing from brew
 ```
 brew tap macos-fuse-t/homebrew-cask
 brew install fuse-t
-brew install fuse-t-sshfs
 ```
 
 
