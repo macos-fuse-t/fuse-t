@@ -25,7 +25,7 @@ Other details
 See wiki for more information.
 
 Download the latest version of fuse-t:\
-https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.32/fuse-t-macos-installer-1.0.32.pkg
+https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.33/fuse-t-macos-installer-1.0.33.pkg
 
 if you have any questions or comments, contact me at alex@fuse-t.org
 
