@@ -19,13 +19,14 @@ How FUSE-T works
 When a filesystem issues a mount API call, libfuse launches a FUSE-T NFS server that exposes a local TCP port to the macOS mount proccess and another communication channel to libfuse. After that a macOS mount_nfs command is executed and NFS rpcs are getting called on the server.
 The server converts NFS rpc calls into FUSE requests that emulate original kernel-libfuse protocol. Those requests are executed in libfuse and corresponding FUSE filesystem, then the result is converted back to the macOS NFS client.
 After the filesystem process dies the NFS server terminates as well and it also unmounts the NFS folder mounted previously.
+Experimental SMB backend was added as NFS alternative
 
 Other details
 ------
 See wiki for more information.
 
 Download the latest version of fuse-t:\
-https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.34/fuse-t-macos-installer-1.0.34.pkg
+https://github.com/macos-fuse-t/fuse-t/releases/download/1.0.35/fuse-t-macos-installer-1.0.35.pkg
 
 if you have any questions or comments, contact me at alex@fuse-t.org
 
