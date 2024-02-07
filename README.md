@@ -43,8 +43,7 @@ brew install macos-fuse-t/homebrew-cask/fuse-t-sshfs
 Possible Issues
 -----------------
 
-"Operation not permitted"
------
+-- "Operation not permitted"
 
 From a terminal, if you find that you can not read the contents of a folder under
 the FUSE file system, it may be that access to "Network Volumes" is not enabled.
