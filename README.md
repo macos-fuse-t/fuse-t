@@ -39,7 +39,7 @@ brew install macos-fuse-t/homebrew-cask/fuse-t
 ```
 For sshfs:
 ```
-brew install macos-fuse-t/homebrew-cask/fuse-t-sshfs
+brew install macos-fuse-t/homebrew-cask/sshfs-fuse-t
 ```
 
 Possible Issues
